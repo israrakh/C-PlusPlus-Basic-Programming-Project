@@ -26,6 +26,7 @@ int main()
 	cout << "The approximate number of customers in the survey preferring citrus-flavored energy drinks are: "
 		<< citrusDrinkCustomers << endl;
 
+
 	return 0;
 }
 
