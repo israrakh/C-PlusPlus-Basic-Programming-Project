@@ -5,6 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "This project covers examples Distance per Tank of Gas and " <<
+        " Energy Drink Consumption.\n";
 }
 
